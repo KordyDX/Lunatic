@@ -1,6 +1,6 @@
 # Lunatic
-Hratelné zde -> https://www.roblox.com/games/15050697759/Lunatic
-Gameplay zde -> https://youtu.be/G9XOd4CBqt4?si=PHB5y8wqx2mmB4c9
+- Hratelné zde -> https://www.roblox.com/games/15050697759/Lunatic
+- Gameplay zde -> https://youtu.be/G9XOd4CBqt4?si=PHB5y8wqx2mmB4c9
 ## Autoři
 - Kristián Stefurak, Adam Zarówny, Nikolas Erlebach a Jakub Lacina
 ## Popisek
